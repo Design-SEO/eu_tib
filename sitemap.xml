@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://capiturex.net/en</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://capiturex.net/en" />
+    <xhtml:link rel="alternate" hreflang="en_GB" href="https://capiturex.net/en" />
+    <xhtml:link rel="alternate" hreflang="de_CH" href="https://capiturex.net/ch_de" />
+    <xhtml:link rel="alternate" hreflang="fr_CH" href="https://capiturex.net/ch_fr" />
+    <xhtml:link rel="alternate" hreflang="pt_BR" href="https://capiturex.net/br" />
+    <xhtml:link rel="alternate" hreflang="ja_JP" href="https://capiturex.net/jp" />
+    <xhtml:link rel="alternate" hreflang="ar_AE" href="https://capiturex.net/ae" />
+    <xhtml:link rel="alternate" hreflang="ar_SA" href="https://capiturex.net/sa" />
+    <xhtml:link rel="alternate" hreflang="en_PH" href="https://capiturex.net/ph" />
+    <xhtml:link rel="alternate" hreflang="en_MY" href="https://capiturex.net/my" />
+    <xhtml:link rel="alternate" hreflang="es_ES" href="https://capiturex.net/es" />
+    <xhtml:link rel="alternate" hreflang="no_NO" href="https://capiturex.net/no" />
+    <xhtml:link rel="alternate" hreflang="es_PA" href="https://capiturex.net/pa" />
+    <xhtml:link rel="alternate" hreflang="ar_KW" href="https://capiturex.net/kw" />
+    <xhtml:link rel="alternate" hreflang="ar_JO" href="https://capiturex.net/jo" />
+    <xhtml:link rel="alternate" hreflang="it_IT" href="https://capiturex.net/it" />
+  </url>
+  <url>
+    <loc>https://capiturex.net/about</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://capiturex.net/en/about" />
+    <xhtml:link rel="alternate" hreflang="en_GB" href="https://capiturex.net/en/about" />
+    <xhtml:link rel="alternate" hreflang="de_CH" href="https://capiturex.net/ch_de/about" />
+    <xhtml:link rel="alternate" hreflang="fr_CH" href="https://capiturex.net/ch_fr/about" />
+    <xhtml:link rel="alternate" hreflang="nl_NL" href="https://capiturex.net/nl/about" />
+    <xhtml:link rel="alternate" hreflang="pt_BR" href="https://capiturex.net/br/about" />
+    <xhtml:link rel="alternate" hreflang="ja_JP" href="https://capiturex.net/jp/about" />
+    <xhtml:link rel="alternate" hreflang="ar_AE" href="https://capiturex.net/ae/about" />
+    <xhtml:link rel="alternate" hreflang="ar_SA" href="https://capiturex.net/sa/about" />
+    <xhtml:link rel="alternate" hreflang="en_PH" href="https://capiturex.net/ph/about" />
+    <xhtml:link rel="alternate" hreflang="en_MY" href="https://capiturex.net/my/about" />
+    <xhtml:link rel="alternate" hreflang="es_ES" href="https://capiturex.net/es/about" />
+    <xhtml:link rel="alternate" hreflang="no_NO" href="https://capiturex.net/no/about" />
+    <xhtml:link rel="alternate" hreflang="es_PA" href="https://capiturex.net/pa/about" />
+    <xhtml:link rel="alternate" hreflang="ar_KW" href="https://capiturex.net/kw/about" />
+    <xhtml:link rel="alternate" hreflang="ar_JO" href="https://capiturex.net/jo/about" />
+    <xhtml:link rel="alternate" hreflang="it_IT" href="https://capiturex.net/it/about" />
+  </url>
+  <url>
+    <loc>https://capiturex.net/contact</loc>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://capiturex.net/en/login" />
+    <xhtml:link rel="alternate" hreflang="en_GB" href="https://capiturex.net/en/login" />
+    <xhtml:link rel="alternate" hreflang="de_CH" href="https://capiturex.net/ch_de/login" />
+    <xhtml:link rel="alternate" hreflang="fr_CH" href="https://capiturex.net/ch_fr/login" />
+    <xhtml:link rel="alternate" hreflang="pt_BR" href="https://capiturex.net/br/login" />
+    <xhtml:link rel="alternate" hreflang="ja_JP" href="https://capiturex.net/jp/login" />
+    <xhtml:link rel="alternate" hreflang="ar_AE" href="https://capiturex.net/ae/login" />
+    <xhtml:link rel="alternate" hreflang="ar_SA" href="https://capiturex.net/sa/login" />
+    <xhtml:link rel="alternate" hreflang="en_PH" href="https://capiturex.net/ph/login" />
+    <xhtml:link rel="alternate" hreflang="en_MY" href="https://capiturex.net/my/login" />
+    <xhtml:link rel="alternate" hreflang="es_ES" href="https://capiturex.net/es/login" />
+    <xhtml:link rel="alternate" hreflang="no_NO" href="https://capiturex.net/no/login" />
+    <xhtml:link rel="alternate" hreflang="es_PA" href="https://capiturex.net/pa/login" />
+    <xhtml:link rel="alternate" hreflang="ar_KW" href="https://capiturex.net/kw/login" />
+    <xhtml:link rel="alternate" hreflang="ar_JO" href="https://capiturex.net/jo/login" />
+    <xhtml:link rel="alternate" hreflang="it_IT" href="https://capiturex.net/it/login" />
+  </url>
+
+</urlset>
