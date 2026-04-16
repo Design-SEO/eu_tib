@@ -23,7 +23,7 @@
     <xhtml:link rel="alternate" hreflang="it_IT" href="https://capiturex.net/it" />
   </url>
   <url>
-    <loc>https://capiturex.net/about</loc>
+    <loc>https://capiturex.net/en/about</loc>
     <lastmod>2026-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -46,7 +46,7 @@
     <xhtml:link rel="alternate" hreflang="it_IT" href="https://capiturex.net/it/about" />
   </url>
   <url>
-    <loc>https://capiturex.net/contact</loc>
+    <loc>https://capiturex.net/en/login</loc>
     <lastmod>2026-02-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
